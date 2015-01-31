@@ -4,7 +4,7 @@ We Build SG branding
 Logo
 ---
 
-![We Build SG logo](http://i.imgur.com/sTxk3TX.png)
+![We Build SG logo](readme-img/logo.png)
 
 The logo comes in 2 variations:
 
