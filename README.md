@@ -1,50 +1,48 @@
-KopiJS branding
+We Build SG branding
 ===
 
 Logo
 ---
 
-![KopiJS logo](http://i.imgur.com/sTxk3TX.png)
+![We Build SG logo](http://i.imgur.com/sTxk3TX.png)
 
-The logo comes in four variations:
+The logo comes in 2 variations:
 
-1. Multi-colored glyph (displayed above)
-2. Outlined multi-colored glyph
-3. Single-colored glyph
-4. Outlined single-colored glyph
+1. Circle for normal use
+- Square for iOS/Android logo
 
-The 'JS' text is a morphed version of the [JS logo](https://github.com/voodootikigod/logo.js). The font used in that logo is probably [Neutra Text Bold](https://github.com/voodootikigod/logo.js/pull/5).
+Font-family is small letter `w` from [Vollkorn bold](https://www.google.com/fonts/specimen/Vollkorn).
 
 Colors
 ---
 
-- ![](http://i.imgur.com/6Ka8UWA.png) `#6e4228` Brown (primary color) - background, outline, 'JS' text
-- ![](http://i.imgur.com/qF6j1cH.png) `#956f5a` Light brown - curly brackets, kopi aroma
-- ![](http://i.imgur.com/zxRt5jR.png) `#e9ddd7` Lighter brown - cup plate
-- ![](http://i.imgur.com/V0P0741.png) `#201816` Almost black - kopi
-- ![](http://i.imgur.com/z5EJE7x.png) `#ffffff` White - kopi cup
+- ![](readme-img/red.jpg) `#c11a18` Red (primary color) - background
+- ![](readme-img/light-red.jpg) `#e06149` Light red - heading
+- ![](readme-img/blue.jpg) `#228dB7` Blue -sub-heading
+- ![](readme-img/yellow.jpg) `#f1e9b4` Yellow
+
+Typography
+---
+
+- Font-family [Roboto Slab](http://www.google.com/fonts/specimen/Roboto+Slab) for heading
+- Font-family [Open San](http://www.google.com/fonts/specimen/Open+Sans) for paragraphs
 
 Writing
 ---
 
-The "K" and "JS" in KopiJS are always capitalized. Capitalization is optional when there's a dot.
-
 ### Correct
 
-- Kopi.JS (prefered)
-- KopiJS (also prefered)
-- kopi.js
-- Kopi.js
+- We Build SG (preferred)
+- WeBuild SG
+- webuild.sg
 
 ### Incorrect
 
-- kopiJS
-- kopijs
-- kopi js
-- kopiijs
-- kopiio
+- Webuild SG
+- we build sg
+- webuild sg
 
 License
 ---
 
-[MIT](http://cheeaun.mit-license.org/)
+We Build SG branding is released under the [MIT License](http://opensource.org/licenses/MIT).
