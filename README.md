@@ -25,7 +25,7 @@ Typography
 ---
 
 - Font-family [Roboto Slab](http://www.google.com/fonts/specimen/Roboto+Slab) for heading
-- Font-family [Open San](http://www.google.com/fonts/specimen/Open+Sans) for paragraphs
+- Font-family [Open Sans](http://www.google.com/fonts/specimen/Open+Sans) for paragraphs
 
 Writing
 ---
