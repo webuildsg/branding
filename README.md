@@ -10,6 +10,7 @@ The logo comes in 2 variations:
 
 1. Circle for normal use
 - Square for iOS/Android logo
+- Folder `AppIcon` contains all the [icon sizes needed for iOS development](http://stackoverflow.com/a/31011071/496797)
 
 Font-family is small letter `w` from [Vollkorn bold](https://www.google.com/fonts/specimen/Vollkorn).
 
@@ -33,7 +34,6 @@ Writing
 ### Correct
 
 - We Build SG (preferred)
-- WeBuild SG
 - webuild.sg
 
 ### Incorrect
@@ -42,7 +42,11 @@ Writing
 - we build sg
 - webuild sg
 
-License
+### Credits
+
+1. [Make App Icon](https://makeappicon.com/) for iOS icon sizes
+
+### License
 ---
 
 We Build SG branding is released under the [MIT License](http://opensource.org/licenses/MIT).
