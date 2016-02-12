@@ -21,6 +21,7 @@ Colors
 - ![](readme-img/light-red.jpg) `#e06149` `rgb(224, 97, 73)` Light red - heading
 - ![](readme-img/blue.jpg) `#228dB7` `rgb(34, 141, 183)` Blue -sub-heading
 - ![](readme-img/yellow.jpg) `#f1e9b4` `rgb(241, 233, 180)` Yellow
+- `#f8f4da` `rgb(248, 244, 218)` Light Yellow
 
 Typography
 ---
