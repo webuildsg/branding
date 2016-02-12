@@ -17,10 +17,10 @@ Font-family is small letter `w` from [Vollkorn bold](https://www.google.com/font
 Colors
 ---
 
-- ![](readme-img/red.jpg) `#c11a18` Red (primary color) - background
-- ![](readme-img/light-red.jpg) `#e06149` Light red - heading
-- ![](readme-img/blue.jpg) `#228dB7` Blue -sub-heading
-- ![](readme-img/yellow.jpg) `#f1e9b4` Yellow
+- ![](readme-img/red.jpg) `#c11a18` `rgb(193, 26, 24)` Red (primary color) - background
+- ![](readme-img/light-red.jpg) `#e06149` `rgb(224, 97, 73)` Light red - heading
+- ![](readme-img/blue.jpg) `#228dB7` `rgb(34, 141, 183)` Blue -sub-heading
+- ![](readme-img/yellow.jpg) `#f1e9b4` `rgb(241, 233, 180)` Yellow
 
 Typography
 ---
